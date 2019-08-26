@@ -1,1 +1,5 @@
-# data_engineer
+## ETL elements
+- Cloud Scheduler
+- Google Cloud Function
+- BigQuery
+
